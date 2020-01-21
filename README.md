@@ -7,10 +7,8 @@ Hello, everyone!
 I have created a quick React UI demo. This app is a purchase list, that calculates total cost of your items. Your typical basic React demonstration. 
 
 
-![Image description]
 
-
-![GitHub Logo](c:\HardwareShopping.jpg)
+!(c:\HardwareShopping.jpg)
 
 
 Super quick UI designs is one of React's main strength, it's all about UI designs. So this demo focuses on that - functions, counters, updates to DOM, props, states, etc. You can even add new items to the list. Other than Context API, this demo should have most of the bells and whistles of stock React library.
