@@ -11,7 +11,7 @@ Super quick UI designs is one of React's main strength, it's all about UI design
 
 There are many reasons why React is popular. Lightweight and quick. Components. JSX. As of update 16.8 in February of 2019, React has become entirely NEW platform. Hooks and Context API have completely changed the framework. Classes are gone, constructors are gone with them, render method and lifecycle methods are gone, THIS keyword and binding, etc. Even Redux is basically gone with Hooks/Context API.
 
-What is more amazing, is that nearly EVERYTHING written on React prior to 16.8 is now nearly useless. The pace of innovation is truly stunning.
+What is more amazing, is that nearly EVERYTHING written on and about React prior to February 2019 is now nearly useless. Classes used to be the foundation. The pace of innovation is truly stunning.
 
 Take care!
 
